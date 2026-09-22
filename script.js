@@ -2,7 +2,7 @@
 // ENDEREÇO DA API
 // ======================================================
 
-const API_URL = "http://localhost:3000/api/alunos";
+const API_URL = "https://crud-alunos-mx2b.onrender.com/api/alunos";
 
 
 // ======================================================
